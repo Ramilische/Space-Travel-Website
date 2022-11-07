@@ -1,0 +1,166 @@
+.background {
+
+    /* Background */
+
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+
+    background: url(Data/Images/Планеты/space.jpg);
+
+}
+
+.header {
+
+    /* Header */
+
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.logo {
+
+    /* Logo */
+
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 70px;
+    top: 10px;
+
+    background: url(Data/Icons/logo.svg);
+
+}
+
+.information {
+
+    /* Information */
+
+    position: absolute;
+    width: 179px;
+    height: 37px;
+    left: 1359px;
+    top: 31px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.icons {
+
+    /* Icons */
+
+    position: absolute;
+    width: 167px;
+    height: 39px;
+    left: 1605px;
+    top: 31px;
+
+}
+
+.facebook {
+
+    position: absolute;
+    width: 21px;
+    height: 37px;
+    left: 1605px;
+    top: 31px;
+
+    background: url(Data/Icons/iconFB.svg)
+
+}
+
+.twitter {
+
+    position: absolute;
+    width: 50px;
+    height: 39px;
+    left: 1647px;
+    top: 31px;
+
+    background: url(Data/Icons/iconTwitter.svg)
+
+}
+
+.youtube {
+
+    position: absolute;
+    width: 50px;
+    height: 37px;
+    left: 1722px;
+    top: 33px;
+
+    background: url(Data/Icons/iconYouTube.svg)
+
+}
+
+.header-rectangle {
+
+    /* Rectangle */
+
+    position: absolute;
+    width: 1920px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+h1 {
+
+    position: absolute;
+    width: 420px;
+    height: 93px;
+    left: 150px;
+    top: 424px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 93px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+h2 {
+
+    position: absolute;
+    width: 478px;
+    height: 30px;
+    left: 150px;
+    top: 576px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
